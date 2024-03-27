@@ -1,0 +1,44 @@
+{
+  "name": "Task-with-issue-118607887",
+  "user": {
+    "username": "urielMonday",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/152196261?v=4",
+    "gitUserId": 152196261
+  },
+  "commits": [
+    {
+      "id": "ab9e5909d872233405d8bc087c4c255000156798",
+      "url": "https://github.com/itayOrgTest01/itayDevPublic001/commit/ab9e5909d872233405d8bc087c4c255000156798",
+      "user": {
+        "username": "urielMonday",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/152196261?v=4",
+        "gitUserId": 152196261
+      },
+      "message": "this is commit for pr with issue",
+      "timestamp": "2024-03-27T17:36:47+02:00",
+      "addedFilesCount": 0,
+      "removedFilesCount": 0,
+      "modifiedFilesCount": 1
+    },
+    {
+      "id": "82aad626f95bd2f79b2cfbb78fe37349cafaaca3",
+      "url": "https://github.com/itayOrgTest01/itayDevPublic001/commit/82aad626f95bd2f79b2cfbb78fe37349cafaaca3",
+      "user": {
+        "username": "urielMonday",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/152196261?v=4",
+        "gitUserId": 152196261
+      },
+      "message": "more commit",
+      "timestamp": "2024-03-27T17:45:57+02:00",
+      "addedFilesCount": 0,
+      "removedFilesCount": 0,
+      "modifiedFilesCount": 1
+    }
+  ],
+  "updatedAt": "2024-03-27T15:46:11.903Z",
+  "repository": { "id": 397641844, "name": "itayDevPublic001" },
+  "organization": { "id": 89070158, "name": "itayOrgTest01" },
+  "defaultBranch": "master",
+  "baseBranchName": "master",
+  "pullRequestEntityId": 451
+}
