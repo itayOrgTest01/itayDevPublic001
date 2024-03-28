@@ -13,5 +13,3 @@
 // test demo
 //a
 asd
-asdasd
-test
