@@ -13,5 +13,5 @@
 // test demo
 //a
 a=
-te
+t
 a
